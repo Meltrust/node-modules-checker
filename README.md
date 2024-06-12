@@ -1,4 +1,5 @@
-# test-new-linter
+# node-modules checker
+
 A GitHub action that contains a Bash script that asserts for a node_modules folder existence in the branch to be merged.  
 
 If the branch contains the node_modules folder, the PR will display an error so the user knows the situation.
